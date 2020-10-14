@@ -1,3 +1,7 @@
+# use command "pwd" to see where to put the csv ,json or text files so that you can read them
+
+
+
 # 1st part
 import numpy as np
 import pandas as pd
