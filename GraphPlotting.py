@@ -1,15 +1,14 @@
 # use command "pwd" to see where to put the csv ,json or text files so that you can read them
 
 
-
 # 1st part
 import numpy as np
 import pandas as pd
-import plotly.plotly as pl
+import chart_studio.plotly as pl                              #import plotly.plotly as pl  (this has been deprecated now)
 import plotly.offline as po   # these need to be run offline which is why we need to import offline lib
 import cufflinks as cf
 
-po.init_nootebook_mode(connected = True)  # to connect the offline plotly with our system
+po.init_notebook_mode(connected = True)  # to connect the offline plotly with our system
 cf.go_offline()                           # to load cufflinks go_offline
 
 
