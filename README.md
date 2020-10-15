@@ -1,5 +1,6 @@
 # Data Science Graphs
  a project that takes inputs from users and creates their desired graphs . Project has been made by deploying Numpy , Pandas , Plotly and Cufflinks
+ the project is being uploaded as .py file while it was executed on jupyter notebook
 
 output box plot 
 ![boxplot](https://user-images.githubusercontent.com/71323220/96104613-5879c700-0ed9-11eb-9603-b3a393f5c796.jpg)
